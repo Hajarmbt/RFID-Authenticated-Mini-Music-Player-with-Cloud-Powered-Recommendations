@@ -58,8 +58,6 @@ The system follows a layered embedded architecture:
 ### 5. Power Layer
 - 5V USB power supply
 - Shared-ground design to ensure signal stability
-- 
-(Architecture diagram available in `/docs/architecture-diagram.png`)
 ---
 ## Firmware Architecture
 The firmware implements a deterministic state-driven architecture.
